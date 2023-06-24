@@ -1,0 +1,8 @@
+ 
+
+$5000 Has been deposited in the account
+Date /time of the transaction Tue Jun 20 23:00:38 2023
+$5000 Has been withdrow from the account
+Date /time of the transaction Tue Jun 20 23:01:03 2023
+$50000 Has been transfer from the account
+Date /time of the transaction Tue Jun 20 23:01:19 2023
